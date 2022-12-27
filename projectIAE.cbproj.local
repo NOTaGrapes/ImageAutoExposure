@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022.12.27 22:55:34.531,=D:\Programs\Embarcadero\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.12.27 22:55:35.671,=D:\Programs\Embarcadero\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.12.27 22:56:51.744,D:\Reposit\imageAutoExposure\mainFrameIAE.h=D:\Programs\Embarcadero\Projects\Unit1.h</Transaction>
+    <Transaction>2022.12.27 22:56:51.744,D:\Reposit\imageAutoExposure\mainFrameIAE.dfm=D:\Programs\Embarcadero\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022.12.27 22:56:51.744,D:\Reposit\imageAutoExposure\mainFrameIAE.cpp=D:\Programs\Embarcadero\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.12.27 22:57:04.021,D:\Reposit\imageAutoExposure\IAE.h=D:\Programs\Embarcadero\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.12.27 22:57:38.718,D:\Reposit\imageAutoExposure\projectIAE.cbproj=D:\Programs\Embarcadero\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
